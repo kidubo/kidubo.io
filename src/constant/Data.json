@@ -1,0 +1,63 @@
+{
+    "name": "Innocent L Kidubo",
+    "Title": "Computer Science Geek, Fullstack Developer",
+    "profilePic": "https://media-exp1.licdn.com/dms/image/C4D03AQEE5lYg9dPTyA/profile-displayphoto-shrink_200_200/0/1610909588584?e=1628726400&v=beta&t=WhCphdGjbRUTxNQ9F84I8wzr3uU0cN6JIKmffgCz9nM",
+    "About": {
+        "Location": "Dar es salaam , Tanzania, Africa",
+        "Phone": "+255 699 496 430",
+        "Email": "innocentleonard0007@gmail.com",
+        "Description": "Python developer..."
+    },
+    "Education": [{
+        "Degree": "Bachelors of Technology",
+        "Branch": "Computer Science",
+        "University": "Anna University",
+        "Description": "Bachelors of Technology in Computer Science Technology from Anna University and got an A++ so far...",
+        "GPA": "TBD",
+        "Dates": "Aug 2019 to Present"
+    }],
+    "Experience": [{
+            "Role": "Company 2 Role",
+            "Company": "Company 2 Name",
+            "Description": "Company 2 Description",
+            "Dates": "Jan 2020 to Present"
+        },
+        {
+            "Role": "Company 1 Role",
+            "Company": "Company 1 Name",
+            "Description": "Company 1 Description",
+            "Dates": "Jun 2019 to Dec 2019"
+        }
+    ],
+    "Socials": {
+        "LinkedIn": "https://www.linkedin.com/in/",
+        "Instagram": "https://www.instagram.com/",
+        "Twitter": "https://twitter.com/",
+        "Facebook": null,
+        "GitHub": null
+    },
+    "Skills": {
+        "Programming": [
+            "html5",
+            "css3-alt",
+            "js-square",
+            "angular",
+            "react",
+            "node-js",
+            "sass",
+            "less",
+            "wordpress",
+            "gulp",
+            "grunt",
+            "npm"
+        ],
+        "Workflow": [
+            "Mobile-First, Responsive Design",
+            "Cross Browser Testing &amp; Debugging",
+            "Cross Functional Teams",
+            "Agile Development &amp; Scrum"
+        ]
+    },
+    "Interests": ["Something...", "Some more thing..."],
+    "Awards": ["First Cup", "First Cup"]
+}
